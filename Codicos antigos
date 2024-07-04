@@ -1,0 +1,3 @@
+<font color="rgb(4,175,236)">Texto</font>
+
+loadstring(game:HttpGet("https://scriptblox.com/raw/UPD-Blade-Ball-OP-script-never-lose-again-8220"))()
